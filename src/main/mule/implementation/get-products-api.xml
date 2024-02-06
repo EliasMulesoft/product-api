@@ -13,9 +13,9 @@ output application/json
 ---
 {
   productID: "73657467",
-  productName: "Chinna mule course",
+  productName: "Chinna mulesoft course",
   productProvider: "Udemy",
-  productDescription: "Complete mule developer course for biginners"
+  productDescription: "Complete mule developer course"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
